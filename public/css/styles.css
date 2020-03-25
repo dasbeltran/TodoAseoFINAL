@@ -10212,3 +10212,13 @@ body {
 .sb-sidenav-light .sb-sidenav-footer {
   background-color: #e9ecef;
 }
+
+.bg-img{
+  background: url('../assets/img/fondo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-sombra{
+  background: rgb(0, 0, 0,0.7);
+}
